@@ -41,7 +41,7 @@
   
   **Blurtect폴더 안에 블러를 적용할 영상의 이름을 'test_video.mp4'로 저장해 주세요.**
   
-  **ssdam_blurtect_demo.py 파일을 실행해주세요. 폴더 안에 'output_video_.avi'파일이 생깁니다.**
+  **ssdam_blurtect_demo.py 파일을 실행해주세요. 폴더 안에 'output_video_.mp4'파일이 생깁니다.**
   
 ## 4. Lisence
   ```
