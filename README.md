@@ -12,12 +12,12 @@
   아래 요소들을 이용 전 설치해 주시기 바랍니다.
   
 ### [MTCNN](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
-* [MIT License](MTCNN_face_detection_alignment/LICENSE)
+* [MIT License](https://github.com/kpzhang93/MTCNN_face_detection_alignment/blob/master/LICENSE)
 * [installation](https://github.com/DuinoDu/mtcnn)
   
 ### [openface](https://cmusatyalab.github.io/openface/)
 * [Apache 2.0 License](https://github.com/cmusatyalab/openface/blob/master/LICENSE)
-* [installation](https://blog.naver.com/kjh3864/221219146536)
+* [installation](https://www.popit.kr/openface-exo-member-face-recognition/)
 
 ### [opencv](https://opencv.org)
 * [3-clause BSD License](https://opencv.org/license.html)
