@@ -576,7 +576,7 @@ def main():
     else:
         os.mkdir('./training-images/model')
 
-    VideoManager1 = VideoManager(10)
+    VideoManager1 = VideoManager(7)
     VideoManager1._extract_images_from_video('sample_video.mp4', './training-images/model') # FIX ME : short video for face recognition (Don't blur me~~)
     
     imgNum = 0
