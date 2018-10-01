@@ -10,27 +10,40 @@
   Blurtect는 Ubuntu 16.04 환경에서 python 2.7로 작성되었습니다.
   
   아래 요소들을 이용 전 설치해 주시기 바랍니다.
-  >MTCNN https://github.com/DuinoDu/mtcnn
   
-  >openface https://blog.naver.com/kjh3864/221219146536
-
-  >opencv https://blog.csdn.net/duinodu/article/details/51804642
+### [MTCNN](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
+* [MIT License](MTCNN_face_detection_alignment/LICENSE)
+* [installation](https://github.com/DuinoDu/mtcnn)
   
-  >caffe https://gist.github.com/nikitametha/c54e1abecff7ab53896270509da80215
+### [openface](https://cmusatyalab.github.io/openface/)
+* [Apache 2.0 License](https://github.com/cmusatyalab/openface/blob/master/LICENSE)
+* [installation](https://blog.naver.com/kjh3864/221219146536)
 
-  >dilb   
-  >string  
-  >numpy  
-  >pil  
-  >ffmpy  
-  >os  
-  >shutil  
-  >random
+### [opencv](https://opencv.org)
+* [3-clause BSD License](https://opencv.org/license.html)
+* [installation](https://blog.csdn.net/duinodu/article/details/51804642)
+  
+### [caffe](https://github.com/BVLC/caffe)
+* [BSD 2-Clause license](https://github.com/BVLC/caffe/blob/master/LICENSE)
+* [installation](https://gist.github.com/nikitametha/c54e1abecff7ab53896270509da80215)
+
+
+>dilb   
+>string  
+>numpy  
+>pil  
+>ffmpy  
+>os  
+>shutil  
+>random
+
 ## 3. How to use
   **설치한 caffe/python폴더 안에서 아래 명령어를 실행하거나 다운로드한 zip파일을 압축해제 해주세요.**
+  
   `~/caffe/python$ git clone https://github.com/jeenyeo/ssdam_blurtect.git`
   
   **_init_path.py 파일에서 caffe 경로를 자신의 caffe 설치 폴더 경로로 변경해주세요.**
+  
   `caffe_path = '/home/jieun/caffe'`
   
   **Blurtect폴더 안에 블러 하지 않을 대상의 짧은 영상의 이름을 'sample_video.mp4'로 저장해 주세요.**
