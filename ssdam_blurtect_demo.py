@@ -1,6 +1,44 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Copyright (c) 2018 jeenyeo 
+
+# This program is based on 'mtcnn'.
+# It detects faces with 'mtcnn' using 'caffe' and recognizes faces using 'openface'.
+
+#  @techreport{amos2016openface,
+#    title={OpenFace: A general-purpose face recognition
+#      library with mobile applications},
+#    author={Amos, Brandon and Bartosz Ludwiczuk and Satyanarayanan, Mahadev},
+#    year={2016},
+#    institution={CMU-CS-16-118, CMU School of Computer Science},
+#  }
+#
+#  B. Amos, B. Ludwiczuk, M. Satyanarayanan,
+#  "Openface: A general-purpose face recognition library with mobile applications,"
+#  CMU-CS-16-118, CMU School of Computer Science, Tech. Rep., 2016.
+
+#  @article{jia2014caffe,
+#    Author = {Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},
+#    Journal = {arXiv preprint arXiv:1408.5093},
+#    Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
+#    Year = {2014}
+#  }
+
+# @ARTICLE{7553523, 
+# author={K. Zhang and Z. Zhang and Z. Li and Y. Qiao}, 
+# journal={IEEE Signal Processing Letters}, 
+# title={Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks}, 
+# year={2016}, 
+# volume={23}, 
+# number={10}, 
+# pages={1499-1503}, 
+# keywords={Benchmark testing;Computer architecture;Convolution;Detectors;Face;Face detection;Training;Cascaded convolutional neural network (CNN);face alignment;face detection}, 
+# doi={10.1109/LSP.2016.2603342}, 
+# ISSN={1070-9908}, 
+# month={Oct},}
+
+
 import _init_paths
 import string
 import ffmpy
