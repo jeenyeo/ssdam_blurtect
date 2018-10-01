@@ -38,19 +38,20 @@
 >random
 
 ## 3. How to use
-  **설치한 caffe/python폴더 안에서 아래 명령어를 실행하거나 다운로드한 zip파일을 압축해제 해주세요.**
+  **설치한 caffe/python폴더 안에서 아래 명령어를 실행하거나 다운로드한 zip파일을 압축해제하세요.**
   
   `~/caffe/python$ git clone https://github.com/jeenyeo/ssdam_blurtect.git`
   
-  **_init_path.py 파일에서 caffe 경로를 자신의 caffe 설치 폴더 경로로 변경해주세요.**
+  **_init_path.py 파일에서 caffe 경로를 자신의 caffe 설치 폴더 경로로 변경하세요.**
   
   `caffe_path = '/home/jieun/caffe'`
   
-  **Blurtect폴더 안에 블러 하지 않을 대상의 짧은 영상의 이름을 'sample_video.mp4'로 저장해 주세요.**
+  **Blurtect폴더 안에 블러 하지 않을 대상의 짧은 영상의 이름을 'sample_video.mp4'로 저장하세요.**
+  > 7초 내외의, 대상 한 사람의 얼굴이 선명하게 촬영된 영상이 필요합니다.
   
-  **Blurtect폴더 안에 블러를 적용할 영상의 이름을 'test_video.mp4'로 저장해 주세요.**
+  **Blurtect폴더 안에 블러를 적용할 영상의 이름을 'test_video.mp4'로 저장하세요.**
   
-  **ssdam_blurtect_demo.py 파일을 실행해주세요. 폴더 안에 완성본인 'output_video_.mp4'파일이 생깁니다.**
+  **ssdam_blurtect_demo.py 파일을 실행하세요. 완료 후 폴더 안에 완성본인 'output_video_.mp4'파일이 생깁니다.**
   
   
 ## 4. Lisence
