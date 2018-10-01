@@ -15,15 +15,15 @@
 * [MIT License](https://github.com/kpzhang93/MTCNN_face_detection_alignment/blob/master/LICENSE)
 * [installation](https://github.com/DuinoDu/mtcnn)
   
-### [openface](https://cmusatyalab.github.io/openface/)
+### [OpenFace](https://cmusatyalab.github.io/openface/)
 * [Apache 2.0 License](https://github.com/cmusatyalab/openface/blob/master/LICENSE)
 * [installation](https://www.popit.kr/openface-exo-member-face-recognition/)
 
-### [opencv](https://opencv.org)
+### [OpenCV](https://opencv.org)
 * [3-clause BSD License](https://opencv.org/license.html)
 * [installation](https://blog.csdn.net/duinodu/article/details/51804642)
   
-### [caffe](https://github.com/BVLC/caffe)
+### [Caffe](https://github.com/BVLC/caffe)
 * [BSD 2-Clause license](https://github.com/BVLC/caffe/blob/master/LICENSE)
 * [installation](https://gist.github.com/nikitametha/c54e1abecff7ab53896270509da80215)
 
