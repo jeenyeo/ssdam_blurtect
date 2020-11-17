@@ -41,8 +41,9 @@
   <img width="400" src="https://user-images.githubusercontent.com/42834364/99343615-98b1d800-28d1-11eb-9e09-cc8280981828.png">
   </div>
 <br/>
-   System > System protection > System Restore   
-<br/>
+   System > System protection > System Restore
+   
+   
   ![14여러복원지점](https://user-images.githubusercontent.com/42834364/99343634-9cddf580-28d1-11eb-963f-0b9e04726582.JPG)
   
    프로그램이 설치되었을 때 자동으로 생성된 복원 지점 확인 가능
