@@ -57,15 +57,18 @@
 
  3) 생성한 Before sample로 시스템 복원
  
- ![5시스템복원클릭](https://user-images.githubusercontent.com/42834364/99343615-98b1d800-28d1-11eb-9e09-cc8280981828.png)
+ <div>
+ <img src="https://user-images.githubusercontent.com/42834364/99343615-98b1d800-28d1-11eb-9e09-cc8280981828.png">
+ <img src="https://user-images.githubusercontent.com/42834364/99343614-98194180-28d1-11eb-9247-18858e343adc.png">
+ </div>
  
- ![4비포샘플복원지점선택](https://user-images.githubusercontent.com/42834364/99343614-98194180-28d1-11eb-9247-18858e343adc.png)
  
- ![6복원예스누르기](https://user-images.githubusercontent.com/42834364/99343616-994a6e80-28d1-11eb-8b87-bf5fca7b5728.png)
+ <div>
+ <img width="500" src="https://user-images.githubusercontent.com/42834364/99343616-994a6e80-28d1-11eb-8b87-bf5fca7b5728.png">
+ <img width="500" src="https://user-images.githubusercontent.com/42834364/99343619-99e30500-28d1-11eb-8bf7-56cb86bcfda4.png">
+ </div>
  
    Yes를 누르면 복원이 시작되고 재부팅됨
-
- ![8복원중](https://user-images.githubusercontent.com/42834364/99343619-99e30500-28d1-11eb-8bf7-56cb86bcfda4.png)
 
 
  4) 시스템 복원 완료
