@@ -33,46 +33,32 @@
  
 ## 2. 시스템 복원
   
-  1) 복원 지점 확인
+ 1) 복원 지점 확인
   
-  <div>
-  <img width="600" src="https://user-images.githubusercontent.com/42834364/99343605-964f7e00-28d1-11eb-8bf1-336eb174dc79.png">
-  <img width="400" src="https://user-images.githubusercontent.com/42834364/99343615-98b1d800-28d1-11eb-9e09-cc8280981828.png">
-  </div>
+    ![복원지점확인](https://user-images.githubusercontent.com/42834364/99348172-44602580-28dc-11eb-8d84-280a7acbb108.png)
   
-   System > System protection > System Restore <br/>
+    System > System protection > System Restore <br/>
    
-  ![14여러복원지점](https://user-images.githubusercontent.com/42834364/99343634-9cddf580-28d1-11eb-963f-0b9e04726582.JPG)
+    ![14여러복원지점](https://user-images.githubusercontent.com/42834364/99343634-9cddf580-28d1-11eb-963f-0b9e04726582.JPG)
   
-   프로그램이 설치되었을 때 자동으로 생성된 복원 지점 확인 가능
+    프로그램이 설치되었을 때 자동으로 생성된 복원 지점 확인 가능
  
  
  2) 새 복원 지점 Before sample 추가
  
- <div>
- <img src="https://user-images.githubusercontent.com/42834364/99343609-9780ab00-28d1-11eb-91dc-37c42bbc7ba2.png">
- <img src="https://user-images.githubusercontent.com/42834364/99343612-98194180-28d1-11eb-8ed6-9a0aada23d36.png">
- </div>
+    ![복원지점생성](https://user-images.githubusercontent.com/42834364/99348171-432ef880-28dc-11eb-81a6-ad97ac87cfd2.png)
+
 
  3) 생성한 Before sample로 시스템 복원
  
- <div>
- <img width="400" src="https://user-images.githubusercontent.com/42834364/99343615-98b1d800-28d1-11eb-9e09-cc8280981828.png">
- <img width="500" src="https://user-images.githubusercontent.com/42834364/99343614-98194180-28d1-11eb-9247-18858e343adc.png">
- </div>
- 
- 
- <div>
- <img width="500" src="https://user-images.githubusercontent.com/42834364/99343616-994a6e80-28d1-11eb-8b87-bf5fca7b5728.png">
- <img width="500" src="https://user-images.githubusercontent.com/42834364/99343619-99e30500-28d1-11eb-8bf7-56cb86bcfda4.png">
- </div>
- 
-   Yes를 누르면 복원이 시작되고 재부팅됨
+    ![시스템복원](https://user-images.githubusercontent.com/42834364/99348173-44f8bc00-28dc-11eb-8383-c8d6055d29eb.png)
+
+    Yes를 누르면 복원이 시작되고 재부팅됨
 
 
  4) 시스템 복원 완료
  
- <img width="600" src="https://user-images.githubusercontent.com/42834364/99343622-9b143200-28d1-11eb-89b7-e18a70237630.png"></img>
+    <img width="600" src="https://user-images.githubusercontent.com/42834364/99343622-9b143200-28d1-11eb-89b7-e18a70237630.png"></img>
 
 
 ---------------------------------------
