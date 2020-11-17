@@ -27,7 +27,7 @@
 
 -  HKLM\SYSTEM\ControlSet001\Control\BackupRestore\FilesNotToSnapshot   
    
-  해당 레지스트리 키를 이용하여 섀도 복사본에서 특정파일 제외 가능   
+   해당 레지스트리 키를 이용하여 섀도 복사본에서 특정파일 제외 가능   
    
    
  -------------------------
@@ -37,15 +37,15 @@
   1) 복원 지점 확인
   
   <div>
-  <img width="40%" src="https://user-images.githubusercontent.com/42834364/99343605-964f7e00-28d1-11eb-8bf1-336eb174dc79.png">
-  <img width="40%" src="https://user-images.githubusercontent.com/42834364/99343615-98b1d800-28d1-11eb-9e09-cc8280981828.png">
+  <img width="700" src="https://user-images.githubusercontent.com/42834364/99343605-964f7e00-28d1-11eb-8bf1-336eb174dc79.png">
+  <img width="500" src="https://user-images.githubusercontent.com/42834364/99343615-98b1d800-28d1-11eb-9e09-cc8280981828.png">
   </div>
   
-  System > System protection > System Restore
+   System > System protection > System Restore
   
   ![14여러복원지점](https://user-images.githubusercontent.com/42834364/99343634-9cddf580-28d1-11eb-963f-0b9e04726582.JPG)
   
- - 프로그램이 설치되었을 때 자동으로 생성된 복원 지점 확인 가능
+   프로그램이 설치되었을 때 자동으로 생성된 복원 지점 확인 가능
  
  
  2) 새 복원 지점 Before sample 추가
@@ -63,7 +63,7 @@
  
  ![6복원예스누르기](https://user-images.githubusercontent.com/42834364/99343616-994a6e80-28d1-11eb-8b87-bf5fca7b5728.png)
  
- - Yes를 누르면 복원이 시작되고 재부팅됨
+   Yes를 누르면 복원이 시작되고 재부팅됨
 
  ![8복원중](https://user-images.githubusercontent.com/42834364/99343619-99e30500-28d1-11eb-8bf7-56cb86bcfda4.png)
 
@@ -81,19 +81,19 @@
 
  ![10vssadmin_list_shadows](https://user-images.githubusercontent.com/42834364/99343625-9bacc880-28d1-11eb-9898-50608aec966a.png)
 
-  관리자 권한으로 cmd 실행
-  vssadmin list shadows : 현재 가지고 있는 볼륨 섀도 복사본 목록 출력
+   관리자 권한으로 cmd 실행
+   vssadmin list shadows : 현재 가지고 있는 볼륨 섀도 복사본 목록 출력
   
  ![11심볼릭링크걸기](https://user-images.githubusercontent.com/42834364/99343626-9bacc880-28d1-11eb-8d10-156cd0752d27.png)
-  해당 섀도 복사본이 생성된 시점과 파일에 접근할 때 필요한 "Shadow Copy Volume"확인
+ 
+   해당 섀도 복사본이 생성된 시점과 파일에 접근할 때 필요한 "Shadow Copy Volume"확인   
 
-  해당 섀도 복사본에 대한 심볼릭 링크를 생성할 것임
-
-  mklink 명령어를 통해 C:\vsc에 링크 걸기
+   해당 섀도 복사본에 대한 심볼릭 링크를 생성할 것임
+   mklink 명령어를 통해 C:\vsc에 링크 걸기
   
  ![12링크된VSC확인](https://user-images.githubusercontent.com/42834364/99343627-9c455f00-28d1-11eb-8ec3-b608fd1a238e.png)
   
-  C:\vsc 디렉터리로 이동하면 복사되어 있는 해당 시점의 C:\ 확인 가능
+   C:\vsc 디렉터리로 이동하면 복사되어 있는 해당 시점의 C:\ 확인 가능
 
-  작업 종료 후 "rmdir c:\vsc" 입력하여 심볼릭 링크 제거
+   작업 종료 후 "rmdir c:\vsc" 입력하여 심볼릭 링크 제거
 
