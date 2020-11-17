@@ -23,7 +23,7 @@
    문서, 전자 메일, 사진, 음악 파일과 같은 개인 파일은 변경되지 않음   
    
    
-   ![13섀도복사본에서특정파일제외](https://user-images.githubusercontent.com/42834364/99343630-9cddf580-28d1-11eb-9554-6b99a4d69e55.png)
+![13섀도복사본에서특정파일제외](https://user-images.githubusercontent.com/42834364/99343630-9cddf580-28d1-11eb-9554-6b99a4d69e55.png)
 
 -  HKLM\SYSTEM\ControlSet001\Control\BackupRestore\FilesNotToSnapshot   
    
@@ -40,8 +40,10 @@
   <img width="600" src="https://user-images.githubusercontent.com/42834364/99343605-964f7e00-28d1-11eb-8bf1-336eb174dc79.png">
   <img width="400" src="https://user-images.githubusercontent.com/42834364/99343615-98b1d800-28d1-11eb-9e09-cc8280981828.png">
   </div>
-     
+
+
    System > System protection > System Restore   
+  
   
   ![14여러복원지점](https://user-images.githubusercontent.com/42834364/99343634-9cddf580-28d1-11eb-963f-0b9e04726582.JPG)
   
