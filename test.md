@@ -42,19 +42,19 @@
     ![14여러복원지점](https://user-images.githubusercontent.com/42834364/99343634-9cddf580-28d1-11eb-963f-0b9e04726582.JPG)
   
     프로그램이 설치되었을 때 자동으로 생성된 복원 지점 확인 가능
- 
+ </br>
  
  2) 새 복원 지점 Before sample 추가
  
     ![복원지점생성](https://user-images.githubusercontent.com/42834364/99348171-432ef880-28dc-11eb-81a6-ad97ac87cfd2.png)
-
+</br>
 
  3) 생성한 Before sample로 시스템 복원
  
     ![시스템복원](https://user-images.githubusercontent.com/42834364/99348173-44f8bc00-28dc-11eb-8383-c8d6055d29eb.png)
 
     Yes를 누르면 복원이 시작되고 재부팅됨
-
+</br>
 
  4) 시스템 복원 완료
  
