@@ -42,7 +42,7 @@
   </div>
 <br/>
    System > System protection > System Restore
-   
+<br/>
    
   ![14여러복원지점](https://user-images.githubusercontent.com/42834364/99343634-9cddf580-28d1-11eb-963f-0b9e04726582.JPG)
   
