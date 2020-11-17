@@ -1,9 +1,10 @@
 # VSS 가이드
 
-## 1. 볼륨 섀도 복사본 서비스   
-   
+## 1. 볼륨 섀도 복사본 서비스
+<br/>
+<br/>
 -  Volume Shadow Copy Service (VSS)   
-         
+    
    시스템을 이전에 설정된 복원 지점으로 되돌려 복원하는 기능   
    
         
@@ -41,9 +42,7 @@
   <img width="400" src="https://user-images.githubusercontent.com/42834364/99343615-98b1d800-28d1-11eb-9e09-cc8280981828.png">
   </div>
 
-
    System > System protection > System Restore   
-  
   
   ![14여러복원지점](https://user-images.githubusercontent.com/42834364/99343634-9cddf580-28d1-11eb-963f-0b9e04726582.JPG)
   
