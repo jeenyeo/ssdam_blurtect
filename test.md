@@ -23,7 +23,7 @@
    문서, 전자 메일, 사진, 음악 파일과 같은 개인 파일은 변경되지 않음   
    
    
-![13섀도복사본에서특정파일제외](https://user-images.githubusercontent.com/42834364/99343630-9cddf580-28d1-11eb-9554-6b99a4d69e55.png)
+   ![13섀도복사본에서특정파일제외](https://user-images.githubusercontent.com/42834364/99343630-9cddf580-28d1-11eb-9554-6b99a4d69e55.png)
 
 -  HKLM\SYSTEM\ControlSet001\Control\BackupRestore\FilesNotToSnapshot   
    
