@@ -58,8 +58,8 @@
  3) 생성한 Before sample로 시스템 복원
  
  <div>
- <img src="https://user-images.githubusercontent.com/42834364/99343615-98b1d800-28d1-11eb-9e09-cc8280981828.png">
- <img src="https://user-images.githubusercontent.com/42834364/99343614-98194180-28d1-11eb-9247-18858e343adc.png">
+ <img width="400" src="https://user-images.githubusercontent.com/42834364/99343615-98b1d800-28d1-11eb-9e09-cc8280981828.png">
+ <img width="500" src="https://user-images.githubusercontent.com/42834364/99343614-98194180-28d1-11eb-9247-18858e343adc.png">
  </div>
  
  
