@@ -112,7 +112,7 @@
 
 <img width="669" alt="기존파일확인" src="https://user-images.githubusercontent.com/42834364/99685782-4c7bb900-2ac6-11eb-8e2a-bcf2dd1a9525.png">
 
-  암호화 되지 않은 상태인 기존 파일 확인 
+  C:\vsc\Users\gmm\Desktop\test 경로로 가서 암호화 되지 않은 상태인 기존 파일 확인 
 </br></br>
 
 <img width="755" alt="배경화면복붙" src="https://user-images.githubusercontent.com/42834364/99685773-4ab1f580-2ac6-11eb-8a4e-742b7a5f76eb.png">
