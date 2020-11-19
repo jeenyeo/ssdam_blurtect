@@ -43,12 +43,12 @@
     프로그램이 설치되었을 때 자동으로 생성된 복원 지점 확인 가능
  </br>
  
- 2) 새 복원 지점 Before sample 추가
+ 2) 새 복원 지점 추가
  
-    ![복원지점생성](https://user-images.githubusercontent.com/42834364/99348171-432ef880-28dc-11eb-81a6-ad97ac87cfd2.png)
+    ![복원지점생성 copy](https://user-images.githubusercontent.com/42834364/99688018-aa110500-2ac8-11eb-81ab-75562beac3be.png)
 </br>
 
- 3) 생성한 Before sample로 시스템 복원
+ 3) 생성한 복원 지점으로 시스템 복원
  
     ![시스템복원 copy](https://user-images.githubusercontent.com/42834364/99687675-45ee4100-2ac8-11eb-826d-d4cda54dc9a9.png)
 
