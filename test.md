@@ -71,29 +71,29 @@
   basic-1 으로 이동
 </br></br>
 
-<img width="1680" alt="2_gmm실행" src="https://user-images.githubusercontent.com/42834364/99679790-b17fe080-2abf-11eb-8f63-974e843a1afa.png">
+<img width="651" alt="gmm실행1" src="https://user-images.githubusercontent.com/42834364/99685798-4ede1300-2ac6-11eb-88ba-51812abed80c.png">
    
   gmm 실행
 </br></br>
 
-<img width="1680" alt="3_감연된 파일" src="https://user-images.githubusercontent.com/42834364/99679792-b2b10d80-2abf-11eb-8794-561783051a3b.png">
+<img width="669" alt="감염된파일" src="https://user-images.githubusercontent.com/42834364/99685797-4e457c80-2ac6-11eb-83e2-d69f596f68d1.png">
 
   감염된 파일
 </br></br>
 
-<img width="446" alt="4_cmd실행" src="https://user-images.githubusercontent.com/42834364/99679798-b3e23a80-2abf-11eb-890e-72308db88310.png">
+<img width="349" alt="cmd실행" src="https://user-images.githubusercontent.com/42834364/99685796-4dace600-2ac6-11eb-84f3-de5234f60485.png">
 
   관리자 권한으로 cmd 실행
 </br></br>
 
-<img width="487" alt="5_list출력" src="https://user-images.githubusercontent.com/42834364/99679803-b47ad100-2abf-11eb-92c4-0aca1ad01876.png">   
+<img width="426" alt="list출력" src="https://user-images.githubusercontent.com/42834364/99685794-4dace600-2ac6-11eb-904e-d615e7eef301.png">   
 
   vssadmin list shadows : 현재 가지고 있는 볼륨 섀도 복사본 목록 출력
     
   해당 섀도 복사본이 생성된 시점과 파일에 접근할 때 필요한 "Shadow Copy Volume"확인   
 </br>
 
-<img width="473" alt="6_링크" src="https://user-images.githubusercontent.com/42834364/99679808-b5136780-2abf-11eb-8877-5c030b255fc3.png">
+<img width="426" alt="링크걸기" src="https://user-images.githubusercontent.com/42834364/99685789-4d144f80-2ac6-11eb-8d91-b804962eef63.png">
 
   해당 섀도 복사본에 대한 심볼릭 링크를 생성할 것임
    
@@ -101,19 +101,19 @@
 </br></br>
 
 ![12링크된VSC확인](https://user-images.githubusercontent.com/42834364/99343627-9c455f00-28d1-11eb-8ec3-b608fd1a238e.png)
-<img width="747" alt="7_링크확인" src="https://user-images.githubusercontent.com/42834364/99679812-b5136780-2abf-11eb-852d-f7b7e2fc5bdd.png">
+<img width="669" alt="링크확인" src="https://user-images.githubusercontent.com/42834364/99685785-4d144f80-2ac6-11eb-8f94-dffb31a2e91d.png">
   
   C:\vsc 디렉터리로 이동하면 복사되어 있는 해당 시점의 C:\ 확인 가능
 </br></br>
 
-<img width="789" alt="8_기존 파일 확인" src="https://user-images.githubusercontent.com/42834364/99679814-b5abfe00-2abf-11eb-8e13-ff0b6aac0d3b.png">
+<img width="669" alt="기존파일확인" src="https://user-images.githubusercontent.com/42834364/99685782-4c7bb900-2ac6-11eb-8e2a-bcf2dd1a9525.png">
 
   암호화 되지 않은 기존 파일 확인 
 </br></br>
 
-<img width="1680" alt="9_배경화면에 복붙" src="https://user-images.githubusercontent.com/42834364/99679815-b6449480-2abf-11eb-9496-0347d603ea87.png">
+<img width="755" alt="배경화면복붙" src="https://user-images.githubusercontent.com/42834364/99685773-4ab1f580-2ac6-11eb-8a4e-742b7a5f76eb.png">
 
-  배경화면으로 다시 이동시켜 복원 완료
+  배경화면으로 다시 복사해서 복원 완료
 
   작업 종료 후 "rmdir c:\vsc" 입력하여 심볼릭 링크 제거
 
