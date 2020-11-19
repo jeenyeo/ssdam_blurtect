@@ -103,7 +103,7 @@
 <img width="669" alt="링크확인" src="https://user-images.githubusercontent.com/42834364/99685785-4d144f80-2ac6-11eb-8f94-dffb31a2e91d.png">
 
   C:\vsc에 링크 걸린 것 확인
-</br>
+</br></br>
 
 ![12링크된VSC확인](https://user-images.githubusercontent.com/42834364/99343627-9c455f00-28d1-11eb-8ec3-b608fd1a238e.png)
   
