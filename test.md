@@ -73,12 +73,12 @@
 
 <img width="651" alt="gmm실행1" src="https://user-images.githubusercontent.com/42834364/99685798-4ede1300-2ac6-11eb-88ba-51812abed80c.png">
    
-  gmm 실행
+  GMM1.exe 실행
 </br></br>
 
 <img width="669" alt="감염된파일" src="https://user-images.githubusercontent.com/42834364/99685797-4e457c80-2ac6-11eb-83e2-d69f596f68d1.png">
 
-  감염된 파일
+  GMM1.exe가 감염시킨 파일 확인
 </br></br>
 
 <img width="349" alt="cmd실행" src="https://user-images.githubusercontent.com/42834364/99685796-4dace600-2ac6-11eb-84f3-de5234f60485.png">
@@ -86,14 +86,14 @@
   관리자 권한으로 cmd 실행
 </br></br>
 
-<img width="426" alt="list출력" src="https://user-images.githubusercontent.com/42834364/99685794-4dace600-2ac6-11eb-904e-d615e7eef301.png">   
+<img width="600" alt="list출력" src="https://user-images.githubusercontent.com/42834364/99685794-4dace600-2ac6-11eb-904e-d615e7eef301.png">   
 
   vssadmin list shadows : 현재 가지고 있는 볼륨 섀도 복사본 목록 출력
     
   해당 섀도 복사본이 생성된 시점과 파일에 접근할 때 필요한 "Shadow Copy Volume"확인   
 </br>
 
-<img width="426" alt="링크걸기" src="https://user-images.githubusercontent.com/42834364/99685789-4d144f80-2ac6-11eb-8d91-b804962eef63.png">
+<img width="600" alt="링크걸기" src="https://user-images.githubusercontent.com/42834364/99685789-4d144f80-2ac6-11eb-8d91-b804962eef63.png">
 
   해당 섀도 복사본에 대한 심볼릭 링크를 생성할 것임
    
@@ -108,7 +108,7 @@
 
 <img width="669" alt="기존파일확인" src="https://user-images.githubusercontent.com/42834364/99685782-4c7bb900-2ac6-11eb-8e2a-bcf2dd1a9525.png">
 
-  암호화 되지 않은 기존 파일 확인 
+  암호화 되지 않은 상태인 기존 파일 확인 
 </br></br>
 
 <img width="755" alt="배경화면복붙" src="https://user-images.githubusercontent.com/42834364/99685773-4ab1f580-2ac6-11eb-8a4e-742b7a5f76eb.png">
