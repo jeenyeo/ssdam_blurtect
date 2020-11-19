@@ -91,7 +91,7 @@
   vssadmin list shadows : 현재 가지고 있는 볼륨 섀도 복사본 목록 출력
     
   해당 섀도 복사본이 생성된 시점과 파일에 접근할 때 필요한 "Shadow Copy Volume"확인   
-</br></br>
+</br>
 
 <img width="473" alt="6_링크" src="https://user-images.githubusercontent.com/42834364/99679808-b5136780-2abf-11eb-8877-5c030b255fc3.png">
 
