@@ -50,7 +50,7 @@
 
  3) 생성한 Before sample로 시스템 복원
  
-    ![시스템복원](https://user-images.githubusercontent.com/42834364/99348173-44f8bc00-28dc-11eb-8383-c8d6055d29eb.png)
+    ![시스템복원 copy](https://user-images.githubusercontent.com/42834364/99687675-45ee4100-2ac8-11eb-826d-d4cda54dc9a9.png)
 
     Yes를 누르면 복원이 시작되고 재부팅됨
 </br>
